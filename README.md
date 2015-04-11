@@ -1,2 +1,3 @@
-# minseok
- 
+hello world
+
+myfirst git hub
